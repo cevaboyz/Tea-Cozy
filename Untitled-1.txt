@@ -1,0 +1,15 @@
+Fonts List:
+
+Helvetica paid
+
+Inter  Free
+
+
+©
+
+html, body {
+margin: 0 auto;
+}
+
+remove the white space around the div of the header
+
