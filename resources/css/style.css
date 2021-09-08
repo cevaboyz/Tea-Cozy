@@ -5,13 +5,14 @@
                                                                                         height: 100%;
                                                                                         color: seashell;
                                                                                         font-size: 22px;
-                                                                                        opacity: 0.9;
+                                                                                        
                                                                                     }
                                                                                     
                                                                                     body {
                                                                                         margin: 0 auto;
                                                                                         height: 100%;
                                                                                         background-color: black;
+                                                                                        opacity: 0.9;
                                                                                     }
                                                                                     
                                                                                     a {
@@ -23,7 +24,7 @@
                                                                                     }
                                                                                     
                                                                                     header {
-                                                                                        position: relative;
+                                                                                        position: fixed;
                                                                                         background-color: black;
                                                                                         display: flex;
                                                                                         width: 100%;
